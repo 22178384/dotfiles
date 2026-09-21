@@ -1,0 +1,42 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+dist/
+build/
+*.log
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+id_rsa
+id_ed25519
+
+# Temp
+.tmp/
+*.bak
+*~.old
