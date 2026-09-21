@@ -1,0 +1,13 @@
+[user]
+    name = c991china
+    email = 277597486+c991china@users.noreply.github.com
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    lg = log --oneline --graph --all
+[core]
+    editor = vim
+    autocrlf = input
+[pull]
+    ff = only
